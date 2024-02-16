@@ -7,7 +7,6 @@ Build modern web application, desktop application or mobile application with Vue
 | Link  | Type | UI | Description|
 |---|---|---|---|
 | [Vue3 + primevue](https://github.com/sdiricco/vue-primevue-boilerplate)|Web|PrimeVue|Build modern web application with Vue3 and PrimeVue. Includes vite, typescript, sass, vue-ruter, pinia, PrimeVue, PrimeVue sass theme, PrimeFlex, PrimeIcons|
-| [Vue3 + vuetify](https://github.com/sdiricco/vue3-vuetify-boilerplate)|Web|Vuetify|Build modern web application with Vue3. Includes vite, typescript, vue-ruter, pinia, vuetify|
 | [Vue3 + electron](https://github.com/sdiricco/vue3-electron-boilerplate)|Desktop||Build cross-platform desktop application with Vue3. Includes vite, typescript|
 | [Vue3 + electron + vuetify](https://github.com/sdiricco/vue3-vuetify-electron-boilerplate)|Desktop|Vuetify|Build cross-platform desktop application with Vue3. Includes vite, typescript |
 |[Vue 3 + ionic](https://github.com/sdiricco/vue3-ionic-boilerplate)|Mobile|Ionic|Build cross-platform mobile application with Vue3. Includes typescript, vue router, pinia, pwa support, ionic, font-awesome|
